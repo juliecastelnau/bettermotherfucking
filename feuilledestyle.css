@@ -1,0 +1,23 @@
+/*ma feuille de style*/
+body{
+	color:#444;
+line-height:1.6;
+font-size:18px;
+}
+h1,h2,h3 {line-height:1.2;}
+#content{
+	width:650px;
+	margin:0 auto;
+}
+.italic{
+	font-style:italic;
+}
+h1{
+font-size:2em;
+}
+h2 {
+	font-size:1.5em;
+	}
+.monospace{
+	font-family:monospace;
+}
